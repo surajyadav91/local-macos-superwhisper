@@ -12,6 +12,10 @@ A local macOS speech-to-text application that uses NVIDIA's Parakeet model to tr
 - **NVIDIA Parakeet**: Uses state-of-the-art NVIDIA Parakeet model for accurate transcription
 - **Menu Bar Integration**: Clean macOS menu bar interface using rumps
 
+## Inspiration
+
+SuperWhisper offers NVIDIA Parakeet as one of its transcription models while the model runs locally, SuperWhisper requires a purchase to use. This project provides a free, local alternative using Parakeet model for personal use.
+
 ## Setup
 
 ### Prerequisites
