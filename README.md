@@ -2,7 +2,7 @@
 
 A local macOS speech-to-text application that uses NVIDIA's Parakeet model to transcribe audio and automatically paste the text wherever your cursor is located.
 
-> **Note**: This was developed quickly using LLMs and AI-assisted coding. There may be bugs or areas for improvement. Feel free to contribute or report issues!
+> **Note**: This was developed quickly using LLMs and AI-assisted coding. There may be bugs or areas for improvement. 
 
 ## Features
 
